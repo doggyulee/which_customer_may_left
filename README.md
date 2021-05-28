@@ -17,7 +17,14 @@ Demographic info about customers – gender, age range, and if they have partner
 ### Visualization 
 ![2](https://user-images.githubusercontent.com/39496126/119971458-330a7b00-bfdb-11eb-873b-29709348179f.PNG)
 
-![3](https://user-images.githubusercontent.com/39496126/119971484-3998f280-bfdb-11eb-9f52-8b327b986ec8.PNG)
+### Accuracy of Logistic Regression Model
+- It showed only 77% of accurcay
+![5](https://user-images.githubusercontent.com/39496126/119976272-12452400-bfe1-11eb-80a6-cb294462db59.PNG)
 
-![4](https://user-images.githubusercontent.com/39496126/119971496-3dc51000-bfdb-11eb-9ffb-77a9d415aaf4.PNG)
+### Accuracy of Random Forest Model
+- It shoed only 75% of accuracy and it's not better result that Logistic Regression Model
+![4](https://user-images.githubusercontent.com/39496126/119976114-d742f080-bfe0-11eb-9baf-bcece6520e12.PNG)
+
+
+
 
